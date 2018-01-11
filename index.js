@@ -14,7 +14,9 @@ function yourAnimal(){
 }
 
 var funkyFunction = function () {
-  
+  return function() {
+    
+  }
 }
 var theFunk = funkyFunction();
 
