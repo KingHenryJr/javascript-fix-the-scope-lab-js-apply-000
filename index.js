@@ -13,11 +13,10 @@ function yourAnimal(){
   return cat;
 }
 
-var funkyFunction = function () {
+var funkyFunction = function() {
   return function() {
-    return 'FUNKY!';
+    return "FUNKY!"
   }
 }
-
 var theFunk = funkyFunction();
 
