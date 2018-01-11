@@ -13,7 +13,9 @@ function yourAnimal(){
   return cat;
 }
 
-var funkyFunction = function ()
+var funkyFunction = function () {
+  
+}
 var theFunk = funkyFunction();
 
 theFunk();
