@@ -13,6 +13,7 @@ function yourAnimal(){
   return cat;
 }
 
+var function = 
 var theFunk = funkyFunction();
 
 theFunk();
